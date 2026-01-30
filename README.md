@@ -20,6 +20,8 @@
    README of your copy, click [this link](../../settings/secrets/actions) to go
    to the "Secrets" page. Otherwise, go to the "Settings" tab of the
    newly-created repository and go to the "Secrets" page (bottom left).
+
+   EXCLUDE LANG : TeX, tex, TSQL, tsql, templ, MDX, PLpgSQL, html, HTML, css, CSS, Java, Hack, Javascript, Makefile, Blade, Dockerfile, cpp, c++
 4. Create a new secret with the name `ACCESS_TOKEN` and paste the copied
    personal access token as the value.
 5. It is possible to change the type of statistics reported by adding other
@@ -58,7 +60,4 @@
    ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
    ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
    ```
-9. Link back to this repository so that others can generate their own
-   statistics images.
-10. Star this repo if you like it!
 
