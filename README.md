@@ -21,7 +21,7 @@
    to the "Secrets" page. Otherwise, go to the "Settings" tab of the
    newly-created repository and go to the "Secrets" page (bottom left).
 
-   EXCLUDE LANG : TeX, tex, TSQL, tsql, templ, MDX, PLpgSQL, html, HTML, css, CSS, Java, Hack, Javascript, Makefile, Blade, Dockerfile, cpp, c++
+   EXCLUDE LANG : TeX, tex, TSQL, tsql, templ, MDX, PLpgSQL, html, HTML, css, CSS, Java, Hack, Javascript, Makefile, Blade, Dockerfile, cpp, c++, latte, Latte, dtrace, Dtrace
 4. Create a new secret with the name `ACCESS_TOKEN` and paste the copied
    personal access token as the value.
 5. It is possible to change the type of statistics reported by adding other
